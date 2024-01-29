@@ -1,0 +1,14 @@
+/home/sultan/Desktop/CSh/Seminar3/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/sultan/Desktop/CSh/Seminar3/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/home/sultan/Desktop/CSh/Seminar3/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/home/sultan/Desktop/CSh/Seminar3/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/home/sultan/Desktop/CSh/Seminar3/Task2/bin/Debug/net7.0/Task2
+/home/sultan/Desktop/CSh/Seminar3/Task2/bin/Debug/net7.0/Task2.deps.json
+/home/sultan/Desktop/CSh/Seminar3/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/home/sultan/Desktop/CSh/Seminar3/Task2/bin/Debug/net7.0/Task2.dll
+/home/sultan/Desktop/CSh/Seminar3/Task2/bin/Debug/net7.0/Task2.pdb
+/home/sultan/Desktop/CSh/Seminar3/Task2/obj/Debug/net7.0/Task2.dll
+/home/sultan/Desktop/CSh/Seminar3/Task2/obj/Debug/net7.0/refint/Task2.dll
+/home/sultan/Desktop/CSh/Seminar3/Task2/obj/Debug/net7.0/Task2.pdb
+/home/sultan/Desktop/CSh/Seminar3/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/home/sultan/Desktop/CSh/Seminar3/Task2/obj/Debug/net7.0/ref/Task2.dll
